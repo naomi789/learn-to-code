@@ -3,14 +3,23 @@
 Naomi's 60 minute learn-to-code workshop. I'll take you all the way from "Hello World" (in Python &amp; HTML) to setting up your own static GitHub Page (HTML &amp; CSS)!
 
 # What is "coding"? 
- - 
+ - Writing/creating instructions that a computer can understand and execute to:
+   - Create, read, update, delete data
+   - Create websites, apps, software
+ - It's often compared to writing a recipe
+   - [TODO insert video about PB+Js] 
 
 # What is a programming language? 
  - " a system of notation for writing computer programs... a kind of computer language." [1](https://en.wikipedia.org/wiki/Programming_language)
  - It is made up of both "syntax (form) and semantics (meaning), which are usually defined by a formal language." [1](https://en.wikipedia.org/wiki/Programming_language)
  
 ## How do programming languages work? 
- - [TODO - insert here]
+1. Person writes code
+2. Code is either
+ - Compiled (converted directly into machine code that can be executed by a computer)
+ - Executed (translated into machine code at runtime, as they are executed by a computer)
+3. Code is executed by the computer
+4. Output may (or may not) be created
 
 ## Types of programming langauges
 There are lots of different ways to do this! It's like asking someone what kinds of salads there are. 
@@ -66,7 +75,7 @@ Types of languages:
 ## How to pick a class? 
  - [TODO - insert here]
 ## How do I start writing code? 
- - 
+ - [TODO - insert here]
 
 ## Python
 ### About Python
