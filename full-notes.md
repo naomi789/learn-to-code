@@ -85,10 +85,12 @@ Types of languages:
 ## Historical stuff
  - [README files](https://en.wikipedia.org/wiki/README) have been around since the 1970s
  - [Hackathons](https://en.wikipedia.org/wiki/Hackathon) have been around since the 1990s
+ - The website [Stack Exchange](https://stackexchange.com/) was modeled after the site [Stack Overflow](https://stackoverflow.com/) (questions about programming that are tightly focused on a specific problem and users' answers) which was named after the bug, [stack overflow](https://en.wikipedia.org/wiki/Stack_overflow), which occur if the call stack pointer exceeds the stack bound. 
 
 ## Concepts
  - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) also referred to "rubberducking"
  - ["Hello, World!" programs](https://en.wikipedia.org/wiki/%22Hello%2C_World!%22_program)
+ - [Blameless postmortems](https://www.atlassian.com/incident-management/postmortem/blameless)
 
 ## Jokes
  - [IP over Avian Carriers (IPoAC)](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers)
