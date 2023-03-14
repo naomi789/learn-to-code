@@ -103,9 +103,20 @@ Types of languages:
  - Hello World
  
 ## Introductory SQL
- - [TODO insert definition] 
- - [TODO insert resources] 
+ - Programming language designed for managing and manipulating relational databases
+ - Four essential operations for creating and managing persistent databases are "CRUD" = Create, Read, Update, Delete
+ - Pros
+   - Simple syntax and clear structure
+   - Widely used and supported 
+   - Can scale up as data volumes grow & efficient with relational databases
+ - Cons
+   - Not great with processing data (even thought SQL is good at retrieving and processing data)
+   - All programming languages for relational databases: 
+     - Can be vulnerable to security risks (like SQL injection)
+     - Changes to the database may mean your SQL code will no longer work
+     - Not great with unstructured data (images, videos, audio files) or semi-structured data (hierarchical data like trees or graphs, XML, JSON)
  - Resources
+   - [TODO insert resources]  
 
 ## Introductory HTML & CSS
  - [TODO insert definition] 
