@@ -13,6 +13,16 @@ Naomi's 60 minute learn-to-code workshop. I'll take you all the way from "Hello 
  - " a system of notation for writing computer programs... a kind of computer language." [1](https://en.wikipedia.org/wiki/Programming_language)
  - It is made up of both "syntax (form) and semantics (meaning), which are usually defined by a formal language." [1](https://en.wikipedia.org/wiki/Programming_language)
  
+## Where do programming languages come from? 
+
+## Why are there updates and new versions of programming languages? 
+ - Fixing bugs and security vulnerabilities
+ - Adding new features
+ - Improving performance
+ - Maintaining compatibility 
+ - Enhancing usability
+ - etc. 
+ 
 ## How do programming languages work? 
 1. Person writes code
 2. Code is either
