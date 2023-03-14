@@ -166,6 +166,7 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
    
 ```
+/*simple one*/
 <!DOCTYPE html>
 <html>
     <head>
@@ -177,10 +178,9 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
         <div class="col left">
         </div>
         <div class="col-lg-auto hellos">
-            <div class="one-hello neon-sign">hello  world</div>
-         <div class="one-hello cute-shadow">&#128075;<div class="actual-shadow">hello world</div></div>
-         <div class="one-hello weird-font">hello, world</div>
-         <div class="one-hello linear-gradient">hello world!!</div>
+          <div class="one-hello simple">
+            hello  world
+          </div>
         </div>
         <div class="col right">
         </div>
@@ -188,6 +188,11 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
     </div>
     </body>
 </html>
+
+/* complicated one */
+/* Notice that Codepen only contains the body of a HTML file! */
+/*https://codepen.io/naomi789/pen/abaYRWx*/
+
 ```
    
 ## CSS (Cascading Style Sheets)
@@ -212,61 +217,15 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - [Shadow generator](https://shadows.brumm.af/)
    - [Shape & shadow generator](https://neumorphism.io/#e0e0e0)
 ```
-/* neon-sign from: https://codepen.io/elmmo/pen/dVoEod 
-cute-shadow from: https://codepen.io/MoorLex/pen/BzgyyY?editors=1100*/
-
-@import url(https://fonts.googleapis.com/css?family=Baloo+Tamma|Shadows+Into+Light|Oswald|Rubik+Iso);
-
-.hellos {
-}
-
-.one-hello {
-  text-align: center;
-  margin: 10px; 
-  padding: 50px;
-  font-size: 80px; 
-}
-
-.neon-sign {
-  background-color: #000411; 
-  font-family: "Monoton"; 
-  color: white; 
-  text-shadow: 0 0 .1em white, 
-               0 0 .1em blueviolet, 
-               0 0 .1em red, 
-               0 0 .1em red, 
-               0 0 .2em red, 
-               0 0 .2em red, 
-               0 0 1em red, 
-               0 0 2em red,
-               0 0 6em red; 
-}
-
-.weird-font {
-  background-color: #9c158d;
+/*simple one*/
+.simple {
+  background-color: black;
   color: white;
-  font-family: 'Rubik Iso';
+  font-family: Arial;
 }
 
-.linear-gradient {
-  font-family: 'Shadows Into Light';
-/*   background: rgb(2,0,36); */
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,156,57,1) 69%, rgba(32,255,0,1) 100%);
-  color: white; 
-}
-
-.cute-shadow {
-  font-family: 'Baloo Tamma', cursive;
-  background: rgb(33,150,243);
-  color: #fff;
-  font-size: 80px;
-  letter-spacing: 5px;
-}
-  .actual-shadow {
-  text-shadow: -1px -1px 0px #2196f3,
-    3px 3px 0px #2196f3,
-    6px 6px 0px #0d47a1;
-}
+/* complicated one */
+/*https://codepen.io/naomi789/pen/abaYRWx*/
 ```
  
 ## CodeSpaces
