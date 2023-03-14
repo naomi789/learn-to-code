@@ -161,6 +161,9 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - You'll likely need to add ARIA (Accessible Rich Internet Applications) to your HTML in order to make your web page accessible 
  - Resources
    - [W3School's HTML Tutorial](https://www.w3schools.com/html/)
+   - [Codepen](https://codepen.io/) (for HTML, CSS, and JS)
+     - To use Bootstrap in your Codepen, select the settings gear for your CSS section, type "Bootstrap", and select the version you want (currently 5.0.2)
+   - [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
    
 ```
 <!DOCTYPE html>
@@ -169,8 +172,20 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
         <title>Example</title>
     </head>
     <body>
-        <h1>Hello, world!!</h1>
-        <p>This is an example of a simple HTML page with one paragraph.</p>
+    <div class="container">
+      <div class="row">
+        <div class="col left">
+        </div>
+        <div class="col-lg-auto hellos">
+            <div class="one-hello neon-sign">hello  world</div>
+         <div class="one-hello cute-shadow">&#128075;<div class="actual-shadow">hello world</div></div>
+         <div class="one-hello weird-font">hello, world</div>
+         <div class="one-hello linear-gradient">hello world!!</div>
+        </div>
+        <div class="col right">
+        </div>
+      </div>
+    </div>
     </body>
 </html>
 ```
@@ -183,11 +198,76 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - Enables you to easily make multiple pages on a website look & feel consistent
  - Cons
    - Limited dynamic functionality (no built-in support for interactivity, animations, etc)
+     - That being said, there are amazing artists on Codepen who make animation and other art with only HTML and CSS 
    - Different browsers can & do interpret CSS differently
    - Complex to manage in large projects
  - Resources
    - [CSS Tutorial](https://www.w3schools.com/CSS/default.asp)
-   
+   - [Codepen](https://codepen.io/) (for HTML, CSS, and JS)
+   - [Linear gradient generator](https://cssgradient.io/)
+   - [Google fonts](https://fonts.google.com/)
+     - Getting started with the [API](https://developers.google.com/fonts/docs/getting_started)
+   - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+   - [Wave generator](https://getwaves.io/)
+   - [Shadow generator](https://shadows.brumm.af/)
+   - [Shape & shadow generator](https://neumorphism.io/#e0e0e0)
+```
+/* neon-sign from: https://codepen.io/elmmo/pen/dVoEod 
+cute-shadow from: https://codepen.io/MoorLex/pen/BzgyyY?editors=1100*/
+
+@import url(https://fonts.googleapis.com/css?family=Baloo+Tamma|Shadows+Into+Light|Oswald|Rubik+Iso);
+
+.hellos {
+}
+
+.one-hello {
+  text-align: center;
+  margin: 10px; 
+  padding: 50px;
+  font-size: 80px; 
+}
+
+.neon-sign {
+  background-color: #000411; 
+  font-family: "Monoton"; 
+  color: white; 
+  text-shadow: 0 0 .1em white, 
+               0 0 .1em blueviolet, 
+               0 0 .1em red, 
+               0 0 .1em red, 
+               0 0 .2em red, 
+               0 0 .2em red, 
+               0 0 1em red, 
+               0 0 2em red,
+               0 0 6em red; 
+}
+
+.weird-font {
+  background-color: #9c158d;
+  color: white;
+  font-family: 'Rubik Iso';
+}
+
+.linear-gradient {
+  font-family: 'Shadows Into Light';
+/*   background: rgb(2,0,36); */
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,156,57,1) 69%, rgba(32,255,0,1) 100%);
+  color: white; 
+}
+
+.cute-shadow {
+  font-family: 'Baloo Tamma', cursive;
+  background: rgb(33,150,243);
+  color: #fff;
+  font-size: 80px;
+  letter-spacing: 5px;
+}
+  .actual-shadow {
+  text-shadow: -1px -1px 0px #2196f3,
+    3px 3px 0px #2196f3,
+    6px 6px 0px #0d47a1;
+}
+```
  
 ## CodeSpaces
  - [insert definition] 
