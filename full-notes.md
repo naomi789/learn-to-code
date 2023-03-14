@@ -1,7 +1,3 @@
-# Learning to code
-## What is this repo? 
-Naomi's 60 minute learn-to-code workshop. I'll take you all the way from "Hello World" (in Python &amp; HTML) to setting up your own static GitHub Page (HTML &amp; CSS)!
-
 # What is "coding"? 
  - Writing/creating instructions that a computer can understand and execute to:
    - Create, read, update, delete data
@@ -9,7 +5,8 @@ Naomi's 60 minute learn-to-code workshop. I'll take you all the way from "Hello 
  - It's often compared to writing a recipe - but a very exact recipe
    - [Exact instructions for making PB&J sandwich](https://www.youtube.com/watch?v=Ct-lOOUqmyY)
 
-# What is a programming language? 
+# Programming languages
+## What is a programming language? 
  - " a system of notation for writing computer programs... a kind of computer language." [1](https://en.wikipedia.org/wiki/Programming_language)
  - It is made up of both "syntax (form) and semantics (meaning), which are usually defined by a formal language." [1](https://en.wikipedia.org/wiki/Programming_language)
  
