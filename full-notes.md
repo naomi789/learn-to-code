@@ -251,9 +251,7 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
  - Cons: 
    - Limited functionality (no server-side scripting, no database support)
    - Limited storage (can't store terabytes of videos, etc)
-
-### How do I get started? 
- - [Follow these directions](https://docs.github.com/en/pages/quickstart)
+ - To get started, [Follow these directions](https://docs.github.com/en/pages/quickstart)
 1. Create a repo name "username.github.io" (where "username" is your name)
 2. Let's put some HTML in your repo
 3. Turn GitHub pages on
