@@ -259,8 +259,6 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
 6. Change your title and descreption in the _config.yml file
 
 
-
-
 # Buying a domain name
  - A domain name is a unique web address that identifies a website on the internet.
  - Pros: 
@@ -277,7 +275,8 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - Other sites where you can host a website (eg, Squarespace, Wix)
   
 # HTML & CSS Templates
- - [insert definition] 
- - [insert why it is helpful] 
- - [insert resources] 
-
+ - Often when you google for HTML templates, sites like [Wix](https://www.wix.com/), [Wordpress](https://wordpress.com/), [Squarespace](https://www.squarespace.com/), [Shopify](https://www.shopify.com/), pop up. These are fine, but are geared towards drag and drop "coding" instead of writing HTML and CSS. Also - they usually charge you a monthly/quarterly fee! 
+ - Here are some alternatives: 
+   - [https://html5up.net/](https://html5up.net/) - I've been using these for years! 
+   - [W3Schools' templates](https://www.w3schools.com/w3css/w3css_templates.asp)
+   - [NicePage](https://nicepage.com/html-templates)
