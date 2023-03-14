@@ -81,9 +81,12 @@ Types of languages:
    - Creating websites (e.g., HTML)
    - Styling websites (e.g., CSS)
    - Data analysis (e.g., R)
-
    
 "There is no overarching classification scheme for programming languages... partially because languages can be classified along multiple axes" [1](https://en.wikipedia.org/wiki/Programming_language#Taxonomies)
+
+# Programmer culture
+## Rubber duck debugging (or rubberducking)
+## Hello world
  
 # Learning to Code
 ## How to pick a language? 
