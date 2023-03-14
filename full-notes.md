@@ -59,6 +59,9 @@ Types of languages:
  - Language purpose
    - Domain-specific languages
    - Markup language
+     - Markdown
+     - HTHML
+     - LaTeX
    - Scripting languages
    - Object oriented
    - Functional programming languages
@@ -118,13 +121,31 @@ Types of languages:
  - Resources
    - [TODO insert resources]  
 
-## Introductory HTML & CSS
- - [TODO insert definition] 
- - [TODO insert resources] 
+## HTML (Hypertext Markup Language) 
+ - HTML is best known for providing the basic structure of web pages, defining headings, paragraphs, links, images, etc
+ - Pros
+   - Easy to learn & use
+   - Supported by all modern web browsers
+ - Cons
+   - Limited functionality
+   - Time consuming, especially if you don't use tools to help
+   - You'll likely need to add ARIA (Accessible Rich Internet Applications) to your HTML in order to make your web page accessible 
  - Resources
    - [W3School's HTML Tutorial](https://www.w3schools.com/html/)
    
-
+## CSS (Cascading Style Sheets)
+ - CSS is used to style and format web pages (fonts, colors, layouts, etc)
+ - Pros
+   - Allows you to separate content & presentation
+   - Simple syntax makes CSS easy to learn
+   - Enables you to easily make multiple pages on a website look & feel consistent
+ - Cons
+   - Limited dynamic functionality (no built-in support for interactivity, animations, etc)
+   - Different browsers can & do interpret CSS differently
+   - Complex to manage in large projects
+ - Resources
+   - [CSS Tutorial](https://www.w3schools.com/CSS/default.asp)
+   
  
 ## CodeSpaces
  - [insert definition] 
