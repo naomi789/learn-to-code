@@ -118,10 +118,13 @@ Consider whether you have a preference around:
  - Resources
    - [The 10 Best Online Python Classes of 2023](https://www.intelligent.com/best-online-courses/python-classes/#Udacity)
    
-## How do I start writing Python? 
+### How do I start writing Python? 
  - [Command line](https://www.cs.utexas.edu/~mitra/csSummer2019/cs313/start.html)
  - [Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb)
- - Hello World
+ 
+ ```
+print("Hello, world!!")
+```
  
 ## Introductory SQL
  - Programming language designed for managing and manipulating relational databases
