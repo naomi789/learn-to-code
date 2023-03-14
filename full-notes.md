@@ -237,8 +237,15 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
  
 # Other tools as we program 
 ## CodeSpaces
- - [insert definition] 
- - [insert why it is helpful] 
+ - CodeSpaces is a cloud-based IDE (integrated development environment)
+ - Pros:
+   - Convenience - you don't need to set up a development environment
+   - GitHub integration - enables teams to collaborate on projects and share code in real-time
+   - Runs on the cloud - which means you can use it from anywhere
+ - Cons: 
+   - Cost - it's not free for most people
+   - Limited customization - it's designed to be lightweight and streamlined, so it doesn't have all the settings and options other IDEs have
+   - Runs on the cloud - so you need functioning internet 
  - How to set up CodeSpaces from the [web browser](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository)
 
 ## GitHub pages
@@ -274,7 +281,11 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - [https://www.namecheap.com/](https://www.namecheap.com/)
    - [https://www.godaddy.com/](https://www.godaddy.com/)
    - Other sites where you can host a website (eg, Squarespace, Wix)
-  
+
+# Glossary
+ - IDE (integrated development environment)
+ -   
+
 ## HTML & CSS Templates
  - Often when you google for HTML templates, sites like [Wix](https://www.wix.com/), [Wordpress](https://wordpress.com/), [Squarespace](https://www.squarespace.com/), [Shopify](https://www.shopify.com/), pop up. These are fine, but are geared towards drag and drop "coding" instead of writing HTML and CSS. Also - they usually charge you a monthly/quarterly fee! 
  - Here are some alternatives: 
