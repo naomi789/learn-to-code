@@ -48,23 +48,23 @@ Types of languages:
      - Logic
      - Mathematical
      - Reactive
- - Low level v. High level languages
- - Compiled v. Interpreted languages
- - Typing
-   - static v. dynamic typing
-   - strong v. weak typing
- - Procedural v. declarative languages
- - Compiled v. Just-in-Time (JIT) languages 
- - Event driven v. threaded programming
- - Language purpose
-   - Domain-specific languages
-   - Markup language
+ - [Low level](https://en.wikipedia.org/wiki/Low-level_programming_language) v. [High level languages
+](https://en.wikipedia.org/wiki/High-level_programming_language) - Compiled v. Interpreted languages
+ - [Strong v. weak typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+   - Static vs. dynamic
+   - Manifest vs. inferred
+   - Nominal vs. structural
+   - Duck typing
+ - [Declarative](https://en.wikipedia.org/wiki/Declarative_programming) v. [Imperative](https://en.wikipedia.org/wiki/Imperative_programming) languages
+   - [Object oriented](https://en.wikipedia.org/wiki/Object-oriented_programming)
+   - [Functional programming languages](https://en.wikipedia.org/wiki/Functional_programming)
+ - [Event driven](https://en.wikipedia.org/wiki/Event-driven_programming)
+ - [Domain-specific languages (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language) v. [General-purpose language (GPL)](https://en.wikipedia.org/wiki/General-purpose_language)
+   - Markup languages
      - Markdown
      - HTHML
      - LaTeX
-   - Scripting languages
-   - Object oriented
-   - Functional programming languages
+   - [Dynamic programming language](https://en.wikipedia.org/wiki/Dynamic_programming_language) - often called "scripting languages"F
    
 "There is no overarching classification scheme for programming languages... partially because languages can be classified along multiple axes" [1](https://en.wikipedia.org/wiki/Programming_language#Taxonomies)
  
