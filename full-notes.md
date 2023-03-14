@@ -73,7 +73,13 @@ Types of languages:
 4. Be patient & open to switching languages
 
 ## How to pick a class? 
- - [TODO - insert here]
+ - Course content (introductory v. advanced concepts? Quizzes? Online forums?)
+ - Course format (reading? lectures to watch?)
+ - Course duration (self-paced? hours? months?)
+ - Instructor quality
+ - Program quality
+ - Certificate, degree, neither? 
+ 
 ## How do I start writing code? 
  - [TODO - insert here]
 
