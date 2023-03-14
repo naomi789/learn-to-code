@@ -162,6 +162,19 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
  - Resources
    - [W3School's HTML Tutorial](https://www.w3schools.com/html/)
    
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Example</title>
+    </head>
+    <body>
+        <h1>Hello, world!!</h1>
+        <p>This is an example of a simple HTML page with one paragraph.</p>
+    </body>
+</html>
+```
+   
 ## CSS (Cascading Style Sheets)
  - CSS is used to style and format web pages (fonts, colors, layouts, etc)
  - Pros
