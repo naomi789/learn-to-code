@@ -137,7 +137,7 @@ Consider whether you have a preference around:
      - Changes to the database may mean your SQL code will no longer work
      - Not great with unstructured data (images, videos, audio files) or semi-structured data (hierarchical data like trees or graphs, XML, JSON)
  - Resources
-   - [TODO insert resources]  
+   - [Top 6 Online SQL Courses for Beginners in 2023](https://learnsql.com/blog/best-online-sql-courses-2023/) 
 
 ## HTML (Hypertext Markup Language) 
  - HTML is best known for providing the basic structure of web pages, defining headings, paragraphs, links, images, etc
