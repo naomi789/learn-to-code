@@ -51,7 +51,7 @@ Types of languages:
  - [Low level](https://en.wikipedia.org/wiki/Low-level_programming_language) v. [High level languages
 ](https://en.wikipedia.org/wiki/High-level_programming_language) - Compiled v. Interpreted languages
  - [Strong v. weak typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-   - Static vs. dynamic
+   - Static vs. dynamic typing
    - Manifest vs. inferred
    - Nominal vs. structural
    - Duck typing
@@ -59,12 +59,14 @@ Types of languages:
    - [Object oriented](https://en.wikipedia.org/wiki/Object-oriented_programming)
    - [Functional programming languages](https://en.wikipedia.org/wiki/Functional_programming)
  - [Event driven](https://en.wikipedia.org/wiki/Event-driven_programming)
+ - [Dynamic programming language](https://en.wikipedia.org/wiki/Dynamic_programming_language) - often called "scripting languages"
  - [Domain-specific languages (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language) v. [General-purpose language (GPL)](https://en.wikipedia.org/wiki/General-purpose_language)
-   - Markup languages
-     - Markdown
-     - HTHML
-     - LaTeX
-   - [Dynamic programming language](https://en.wikipedia.org/wiki/Dynamic_programming_language) - often called "scripting languages"F
+   - Database management (e.g., SQL)
+   - Creating documents (e.g., LaTeX)
+   - Creating websites (e.g., HTML)
+   - Styling websites (e.g., CSS)
+   - Data analysis (e.g., R)
+
    
 "There is no overarching classification scheme for programming languages... partially because languages can be classified along multiple axes" [1](https://en.wikipedia.org/wiki/Programming_language#Taxonomies)
  
