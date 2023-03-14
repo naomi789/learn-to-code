@@ -123,6 +123,7 @@ Consider whether you have a preference around:
  - [Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb)
  
  ```
+# Simple version
 print("Hello, world!!")
 ```
  
@@ -143,6 +144,7 @@ print("Hello, world!!")
    - [Top 6 Online SQL Courses for Beginners in 2023](https://learnsql.com/blog/best-online-sql-courses-2023/) 
    
  ```
+-- Simple version: 
 CREATE TABLE helloworld (phrase TEXT);
 INSERT INTO helloworld VALUES ("Hello, World!");
 INSERT INTO helloworld VALUES ("Goodbye, World!");
