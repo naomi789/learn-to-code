@@ -79,9 +79,6 @@ Types of languages:
  - Instructor quality
  - Program quality
  - Certificate, degree, neither? 
- 
-## How do I start writing code? 
- - [TODO - insert here]
 
 ## Python
 ### About Python
@@ -90,26 +87,33 @@ Types of languages:
    - Emphasis on code readability
    - Extensive standard library 
  - Pros of Python
-   - [TODO - insert here]
+   - Readability (due to simple syntax)
+   - Versatile (can use for web development, data analysis, machine learning, etc)
+   - Interpreted language (can test and run code in real-time)
+   - Large community (lots of courses, debugging resources, & in-demand)
  - Cons of Python
-   - [TODO - insert here]
+   - Slower processing speed (this makes Python a poor choice for: app dev and low-level programming)
+   - Python's high-level abstractions & automated memory management can impact performance
  - Resources
    - [The 10 Best Online Python Classes of 2023](https://www.intelligent.com/best-online-courses/python-classes/#Udacity)
    
-### Using Python
- - [Command line]
- - [
+## How do I start writing Python? 
+ - [TODO Command line]
+ - [TODO Jupyter Notebook]
+ - Hello World
+ 
+## Introductory SQL
+ - [TODO insert definition] 
+ - [TODO insert resources] 
+ - Resources
 
 ## Introductory HTML & CSS
- - [insert definition] 
- - [insert resources] 
+ - [TODO insert definition] 
+ - [TODO insert resources] 
  - Resources
    - [W3School's HTML Tutorial](https://www.w3schools.com/html/)
    
-## Introductory SQL
- - [insert definition] 
- - [insert resources] 
- - Resources
+
  
 ## CodeSpaces
  - [insert definition] 
