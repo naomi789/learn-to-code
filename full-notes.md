@@ -141,6 +141,14 @@ print("Hello, world!!")
      - Not great with unstructured data (images, videos, audio files) or semi-structured data (hierarchical data like trees or graphs, XML, JSON)
  - Resources
    - [Top 6 Online SQL Courses for Beginners in 2023](https://learnsql.com/blog/best-online-sql-courses-2023/) 
+   
+ ```
+CREATE TABLE helloworld (phrase TEXT);
+INSERT INTO helloworld VALUES ("Hello, World!");
+INSERT INTO helloworld VALUES ("Goodbye, World!");
+SELECT COUNT(*) FROM helloworld;
+SELECT * FROM helloworld WHERE phrase = "Hello, World!";
+```
 
 ## HTML (Hypertext Markup Language) 
  - HTML is best known for providing the basic structure of web pages, defining headings, paragraphs, links, images, etc
