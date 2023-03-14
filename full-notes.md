@@ -121,7 +121,8 @@ Consider whether you have a preference around:
 ### How do I start writing Python? 
  - [Command line](https://www.cs.utexas.edu/~mitra/csSummer2019/cs313/start.html)
  - [Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb)
- 
+
+### Hello World - Python 
  ```
 # Simple version
 print("Hello, world!!")
@@ -143,6 +144,7 @@ print("Hello, world!!")
  - Resources
    - [Top 6 Online SQL Courses for Beginners in 2023](https://learnsql.com/blog/best-online-sql-courses-2023/) 
    
+### Hello World - SQL
  ```
 -- Simple version: 
 CREATE TABLE helloworld (phrase TEXT);
@@ -167,6 +169,7 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
      - To use Bootstrap in your Codepen, select the settings gear for your CSS section, type "Bootstrap", and select the version you want (currently 5.0.2)
    - [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
    
+### Hello World - HTML
 ```
 /*simple one*/
 <!DOCTYPE html>
@@ -218,6 +221,8 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - [Wave generator](https://getwaves.io/)
    - [Shadow generator](https://shadows.brumm.af/)
    - [Shape & shadow generator](https://neumorphism.io/#e0e0e0)
+   
+### Hello World - CSS
 ```
 /*simple one*/
 .simple {
@@ -230,12 +235,13 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
 /*https://codepen.io/naomi789/pen/abaYRWx*/
 ```
  
+# Other tools as we program 
 ## CodeSpaces
  - [insert definition] 
  - [insert why it is helpful] 
  - How to set up CodeSpaces from the [web browser](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository)
 
-# GitHub pages
+## GitHub pages
  - GitHub Pages is a free hosting service provided by GitHub that allows you to create a website using your GitHub repository. It's a simple and easy way to host a static website without the need for a separate web hosting service.
  - Pros: 
    - Easy setup
@@ -246,7 +252,7 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - Limited functionality (no server-side scripting, no database support)
    - Limited storage (can't store terabytes of videos, etc)
 
-## How do I get started? 
+### How do I get started? 
  - [Follow these directions](https://docs.github.com/en/pages/quickstart)
 1. Create a repo name "username.github.io" (where "username" is your name)
 2. Let's put some HTML in your repo
@@ -256,7 +262,7 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
 6. Change your title and descreption in the _config.yml file
 
 
-# Buying a domain name
+## Buying a domain name
  - A domain name is a unique web address that identifies a website on the internet.
  - Pros: 
    - Builds branding & credibility
@@ -271,7 +277,7 @@ SELECT * FROM helloworld WHERE phrase = "Hello, World!";
    - [https://www.godaddy.com/](https://www.godaddy.com/)
    - Other sites where you can host a website (eg, Squarespace, Wix)
   
-# HTML & CSS Templates
+## HTML & CSS Templates
  - Often when you google for HTML templates, sites like [Wix](https://www.wix.com/), [Wordpress](https://wordpress.com/), [Squarespace](https://www.squarespace.com/), [Shopify](https://www.shopify.com/), pop up. These are fine, but are geared towards drag and drop "coding" instead of writing HTML and CSS. Also - they usually charge you a monthly/quarterly fee! 
  - Here are some alternatives: 
    - [https://html5up.net/](https://html5up.net/) - I've been using these for years! 
