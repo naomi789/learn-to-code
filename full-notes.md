@@ -82,8 +82,18 @@ Types of languages:
 "There is no overarching classification scheme for programming languages... partially because languages can be classified along multiple axes" [1](https://en.wikipedia.org/wiki/Programming_language#Taxonomies)
 
 # Programmer culture
-## Rubber duck debugging (or rubberducking)
-## Hello world
+## Historical stuff
+ - [README files](https://en.wikipedia.org/wiki/README) have been around since the 1970s
+ - [Hackathons](https://en.wikipedia.org/wiki/Hackathon) have been around since the 1990s
+
+## Concepts
+ - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) also referred to "rubberducking"
+ - ["Hello, World!" programs](https://en.wikipedia.org/wiki/%22Hello%2C_World!%22_program)
+
+## Jokes
+ - [IP over Avian Carriers (IPoAC)](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers)
+ - [Hyper Text Coffee Pot Control Protocol (HTCPCP)](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol)
+
  
 # Learning to Code
 ## How to pick a language? 
