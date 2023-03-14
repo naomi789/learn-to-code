@@ -10,6 +10,7 @@ Naomi's 60 minute learn-to-code workshop. I'll take you all the way from "Hello 
  - It is made up of both "syntax (form) and semantics (meaning), which are usually defined by a formal language." [1](https://en.wikipedia.org/wiki/Programming_language)
  
 ## How do programming languages work? 
+ - [TODO - insert here]
 
 ## Types of programming langauges
 There are lots of different ways to do this! It's like asking someone what kinds of salads there are. 
@@ -29,6 +30,15 @@ Types of salads:
    - Maybe you feel like some salads are "real" or "fake": "fruit salad" or "pasta salad" or "chicken salad sandwiches" or "jello salad"... are these real salads?
    
 Types of languages: 
+ - [Programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
+   - Imperative
+     - Procedural
+     - Object oriented
+   - Declarative
+     - Functional
+     - Logic
+     - Mathematical
+     - Reactive
  - Low level v. High level languages
  - Compiled v. Interpreted languages
  - Typing
@@ -47,15 +57,44 @@ Types of languages:
 "There is no overarching classification scheme for programming languages... partially because languages can be classified along multiple axes" [1](https://en.wikipedia.org/wiki/Programming_language#Taxonomies)
  
 # Learning to Code
- - [insert how to pick a language] 
+## How to pick a language? 
+1. Consider your goals (make a website, build an app, analyze data, etc)
+2. Pick a "beginner-friendly" language (Python and Java are often recommended; as are HTML/CSS, R, and SQL)
+3. Consider the community (tutorials, documentation, online forums, etc)
+4. Be patient & open to switching languages
 
-## Introductory Python
- - [insert definition] 
- - [insert resources] 
- 
+## How to pick a class? 
+ - [TODO - insert here]
+## How do I start writing code? 
+ - 
+
+## Python
+### About Python
+ - Python is best known for: 
+   - Being a high-level programming language
+   - Emphasis on code readability
+   - Extensive standard library 
+ - Pros of Python
+   - [TODO - insert here]
+ - Cons of Python
+   - [TODO - insert here]
+ - Resources
+   - [The 10 Best Online Python Classes of 2023](https://www.intelligent.com/best-online-courses/python-classes/#Udacity)
+   
+### Using Python
+ - [Command line]
+ - [
+
 ## Introductory HTML & CSS
  - [insert definition] 
  - [insert resources] 
+ - Resources
+   - [W3School's HTML Tutorial](https://www.w3schools.com/html/)
+   
+## Introductory SQL
+ - [insert definition] 
+ - [insert resources] 
+ - Resources
  
 ## CodeSpaces
  - [insert definition] 
@@ -63,9 +102,16 @@ Types of languages:
  - How to set up CodeSpaces from the [web browser](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository)
 
 # GitHub pages
- - [insert definition] 
-## What can I do with it? 
- - [insert definition] 
+ - GitHub Pages is a free hosting service provided by GitHub that allows you to create a website using your GitHub repository. It's a simple and easy way to host a static website without the need for a separate web hosting service.
+ - Pros: 
+   - Easy setup
+   - Integrated with GitHub
+   - Free web hosting for everyone
+   - Template friendly - no need to be a coding expert! 
+ - Cons: 
+   - Limited functionality (no server-side scripting, no database support)
+   - Limited storage (can't store terabytes of videos, etc)
+
 ## How do I get started? 
  - [Follow these directions](https://docs.github.com/en/pages/quickstart)
 1. Create a repo name "username.github.io" (where "username" is your name)
@@ -79,9 +125,19 @@ Types of languages:
 
 
 # Buying a domain name
- - [insert definition] 
- - [insert why it is helpful] 
- - [insert resources] 
+ - A domain name is a unique web address that identifies a website on the internet.
+ - Pros: 
+   - Builds branding & credibility
+   - Can increase search engine optimization (SEO)
+   - Gives you more control
+ - Cons: 
+   - Annual fee
+   - Takes some time & effort to setup
+   - Your name & contract info will go on a the WHOIS records
+ - Resources
+   - [https://www.namecheap.com/](https://www.namecheap.com/)
+   - [https://www.godaddy.com/](https://www.godaddy.com/)
+   - Other sites where you can host a website (eg, Squarespace, Wix)
   
 # HTML & CSS Templates
  - [insert definition] 
