@@ -81,6 +81,9 @@ Types of languages:
    
 "There is no overarching classification scheme for programming languages... partially because languages can be classified along multiple axes" [1](https://en.wikipedia.org/wiki/Programming_language#Taxonomies)
 
+## What is debugging? 
+ - [TODO: insert]
+
 # Programmer culture
 ## Historical stuff
  - [README files](https://en.wikipedia.org/wiki/README) have been around since the 1970s
