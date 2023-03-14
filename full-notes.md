@@ -14,6 +14,11 @@ Naomi's 60 minute learn-to-code workshop. I'll take you all the way from "Hello 
  - It is made up of both "syntax (form) and semantics (meaning), which are usually defined by a formal language." [1](https://en.wikipedia.org/wiki/Programming_language)
  
 ## Where do programming languages come from? 
+ - Academic institutions, industry, open source, etc. 
+ - Why? Usually either for fun or to address problems or limitations that an exisiting language has
+   - Make syntax easier to read & write (reducing risk of errors)
+   - To improve performance (often for a particular platform
+   - To expirment with new ideas (and maybe provide a competitive advantage) 
 
 ## Why are there updates and new versions of programming languages? 
  - Fixing bugs and security vulnerabilities
