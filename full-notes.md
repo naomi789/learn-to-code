@@ -1,9 +1,14 @@
-# What is "coding"? 
+# Coding
+## What is coding? 
  - Writing/creating instructions that a computer can understand and execute to:
    - Create, read, update, delete data
    - Create websites, apps, software
  - It's often compared to writing a recipe - but a very exact recipe
    - [Exact instructions for making PB&J sandwich](https://www.youtube.com/watch?v=Ct-lOOUqmyY)
+
+## What is the command line? 
+ - Resources
+   - [Learning the command line](https://www.codecademy.com/learn/learn-the-command-line)
 
 # Programming languages
 ## What is a programming language? 
