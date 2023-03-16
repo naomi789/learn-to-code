@@ -1,0 +1,72 @@
+/* neon-sign from: https://codepen.io/elmmo/pen/dVoEod 
+dancing-shadow from: https://codepen.io/carpenumidium/pen/nVgdez
+pretty-shadow from: https://codepen.io/MoorLex/pen/BzgyyY?editors=1100*/
+
+
+/* Other fun ones: 
+Long shadows: https://codepen.io/dariocorsi/pen/jqxERJ
+Striped letters: https://codepen.io/mandymichael/pen/WpjMpJ
+Marquee letters: https://codepen.io/mandymichael/pen/yMbOJQ
+1990s vintage: 
+https://codepen.io/mandymichael/pen/evgxbZ
+staircase perspective: https://codepen.io/bosworthco/pen/YWBLpR
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Baloo+Tamma|Shadows+Into+Light|Oswald|Rubik+Iso);
+
+.hellos {
+  text-align: center;
+}
+
+.one-hello {
+  margin: 10px; 
+  padding: 50px;
+  font-size: 80px; 
+}
+
+.simple {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+}
+
+.neon-sign {
+  background-color: #000411; 
+  font-family: "Monoton"; 
+  color: white; 
+  text-shadow: 0 0 .1em white, 
+               0 0 .1em blueviolet, 
+               0 0 .1em red, 
+               0 0 .1em red, 
+               0 0 .2em red, 
+               0 0 .2em red, 
+               0 0 1em red, 
+               0 0 2em red,
+               0 0 6em red; 
+}
+
+.weird-font {
+  background-color: #9c158d;
+  color: white;
+  font-family: 'Rubik Iso';
+}
+
+.linear-gradient {
+  font-family: 'Shadows Into Light';
+/*   background: rgb(2,0,36); */
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,156,57,1) 69%, rgba(32,255,0,1) 100%);
+  color: white; 
+}
+
+.cute-shadow {
+  font-family: 'Baloo Tamma', cursive;
+  background: rgb(33,150,243);
+  color: #fff;
+  font-size: 80px;
+  letter-spacing: 5px;
+}
+  .actual-shadow {
+  text-shadow: -1px -1px 0px #2196f3,
+    3px 3px 0px #2196f3,
+    6px 6px 0px #0d47a1;
+}
